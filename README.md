@@ -4,7 +4,7 @@
 
 <html>
 <p align="center">
-  <a href="https://github.com/InColorK">
+  <a href="https://github.com/NoColorK">
     <img
       align="center"
       src="./banner.png">
@@ -58,7 +58,7 @@
 
 <br>
 <p align="left">
-  <a href="https://github.com/InColork?tab=repositories">
+  <a href="https://github.com/NoColork?tab=repositories">
     <img
       align="center"
       height="120em"
@@ -79,7 +79,7 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF">
   </a>
-   <a href="https://github.com/InColorK">
+   <a href="https://github.com/NoColorK">
     <img
       align="center"
       src="https://img.shields.io/badge/GitHub-1C1C1C?style=for-the-badge&logo=GitHub&logoColor=00FFFF"
